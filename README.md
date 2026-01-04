@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Ayush Prajapati]
+# Hi there 👋 I'm [[Ayush Prajapati]]
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
