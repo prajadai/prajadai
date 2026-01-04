@@ -1,10 +1,4 @@
-# Hi there 👋 I'm [Your Name]
-
-🔭 Currently working on: [project]
-🌱 Learning: [technologies]
-👯 Looking to collaborate on: [types of projects]
-📫 How to reach me: [email/social media]
-⚡ Fun fact: [something interesting]
+# Hi there 👋 I'm [Ayush Prajapati]
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
